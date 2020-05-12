@@ -1,0 +1,1 @@
+This application is created as part of the lab works. This application will give the current exchange rates of a currency. 
